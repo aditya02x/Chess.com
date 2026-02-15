@@ -1,0 +1,23 @@
+{
+  "name": "chess",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000C\u0000h\u0000e\u0000s\u0000s\u0000.\u0000c\u0000o\u0000m\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditya02x/Chess.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditya02x/Chess.com/issues"
+  },
+  "homepage": "https://github.com/aditya02x/Chess.com#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
